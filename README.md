@@ -84,3 +84,8 @@ to set your account's default identity.
 Omit --global to set the identity only in this repository.
 
 <hr/>
+
+## Broken PyPI
+
+The packagae instance is currently unavailable. Efforts will be taken to bring it back online.
+The resulting inconvenience is regretted.
