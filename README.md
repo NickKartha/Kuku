@@ -89,3 +89,11 @@ Omit --global to set the identity only in this repository.
 
 The packagae instance is currently unavailable. Efforts will be taken to bring it back online.
 The resulting inconvenience is regretted.
+
+---
+
+Continuing soon.
+
+Creating a website to start with.
+Importing RxYS components at later stage.
+Working on Javascript compatibility.
