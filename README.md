@@ -97,3 +97,8 @@ Continuing soon.
 Creating a website to start with.
 Importing RxYS components at later stage.
 Working on Javascript compatibility.
+
+[22/3] Update: Some sketches and wireframe models have been made.
+Thinking to use Flask in the meanwhile, it's a microframework suitable for this.
+The frotend could include either angular or vue. I also may need to revisit jquery.
+
